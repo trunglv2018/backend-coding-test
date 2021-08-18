@@ -20,10 +20,6 @@
  
    `userId=[integer]`
 
-   **Optional:**
- 
-   `orderBy=[alphanumeric]`
-   `orderDirection=[asc/desc]`
 
 * **Data Params**
 
