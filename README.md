@@ -20,6 +20,10 @@
  
    `userId=[integer]`
 
+   **Optional:**
+ 
+   `orderBy=[alphanumeric]`
+   `orderDirection=[asc/desc]`
 
 * **Data Params**
 
@@ -44,7 +48,7 @@
 
 * **Sample Call:**
 
-  http://localhost:8080/api/v1/:userId/repositories
+  http://localhost:8080/api/v1/trunglv2018/repositories
 
 * **Notes:**
 
