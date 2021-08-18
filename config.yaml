@@ -1,0 +1,5 @@
+server:
+  port: 8080
+github:
+  token: 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
+  endpoint: https://api.github.com/
